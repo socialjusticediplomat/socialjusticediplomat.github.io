@@ -1,0 +1,16 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: #336633;;
+    margin-left: 20px;
+  }
+
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    max-width: 50%;
+  }
+}
